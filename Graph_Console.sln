@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph_Console", "Graph_Console\Graph_Console.csproj", "{D47622D9-9489-4114-94BE-5219CD46F99B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D47622D9-9489-4114-94BE-5219CD46F99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47622D9-9489-4114-94BE-5219CD46F99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47622D9-9489-4114-94BE-5219CD46F99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47622D9-9489-4114-94BE-5219CD46F99B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
